@@ -1,0 +1,5 @@
+tgm_address http://121.254.173.77:1555/templategeneration/templator/
+dm_address http://121.254.173.77:2357/agdistis/run
+qgm_address http://121.254.173.77:38401/queries
+kb_address http://dbpedia.org/sparql
+answer_num  5
