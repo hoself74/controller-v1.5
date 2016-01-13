@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Controller v1.5 for OKBQA
 =============================
 
@@ -45,6 +44,3 @@ License
 -------
 
 Released under the MIT license (http://opensource.org/licenses/MIT).
-=======
-# controller-v1.5
->>>>>>> 755f4d63f717eb79ebea3b1cd0273d76c83656ce
